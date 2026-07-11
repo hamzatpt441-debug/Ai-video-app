@@ -1,0 +1,6 @@
+{
+  "name": "AI Video Vault",
+  "description": "A premium modern app with 50+ categories of vertical AI-generated videos, featuring offline downloads, favorites, and an admin upload panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
